@@ -11,3 +11,7 @@ Here the GoPx comes to remove that gap. In GoPx the package author needs to regi
 In GoPx every package name is unique like already existing package registry npm or rubygems  etc.
 
 > Stable package registry for Golang
+
+# License
+
+MIT Licensed
