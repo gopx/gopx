@@ -1,3 +1,6 @@
 module gopx.io/gopx
 
-require rsc.io/quote v1.5.2
+require (
+	github.com/gorilla/mux v1.6.2
+	github.com/sirupsen/logrus v1.1.1
+)
